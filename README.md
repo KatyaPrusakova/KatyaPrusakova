@@ -10,13 +10,13 @@
 </p>
 
 ### Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
-|:---:|:---:|:---:|
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> | <img src="img/php.svg" width=60> | 
+|:---:|:---:|:---:|:---:|
 
 
 ### Tools :fire:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="img/docker.svg" width=60> |
-|:---:|:---:|:---:|
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="img/docker.svg" width=60> | <img src="img/raspberry_pi.svg" width=60> | <img src="img/linux.svg" width=60> | 
+|:---:|:---:|:---:|:---:|
 
 ### Connect with me :smiley:
 <a href="https://www.linkedin.com/in/ekaterina-prusakova-b209b494/">
