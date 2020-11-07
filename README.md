@@ -1,11 +1,11 @@
 
-## Heyo :wave: Devs, 
+## Hello I'm Katya :wave:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm <a href="https://www.facebook.com/ekaterina.prusakova.5">Katya</a> currently a Computer Science student at <a href="https://www.hive.fi/en/about-hive">@ Hive Helsinki :school: </a> and aspiring software developer:computer:. Interested in working on backend, API's, Databases and currently learning about algorithms. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+    Currently I'm studying at <a href="https://www.hive.fi/en/about-hive">@ Hive Helsinki :school: </a> and on my way to become software developer:computer:. Interested in working on backend, API's, Databases and currently learning about algorithms. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
   </samp>
 </p>
 
@@ -29,7 +29,6 @@
   <img align="left" alt="Katya Prusakova" width="21px" src="img/insta.svg" />
 </a>
 <br/><br/>
-
 
 
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=KatyaPrusakova/KatyaPrusakova) -->
