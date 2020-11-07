@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**KatyaPrusakova/KatyaPrusakova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Heyo :wave: Devs, 
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  <br><br>
+  <samp>
+    I'm <a href="https://www.facebook.com/ekaterina.prusakova.5">Katya</a> currently a Computer Science student at <a href="https://www.hive.fi/en/about-hive">@ Hive :school: </a> and aspiring software developer:computer:. Interested in working on backend, API's, Databases and currently learning about algorithms. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+  </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages  :rocket:
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
+|:---:|:---:|:---:|
+
+
+### Tools :fire:
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellig.png" width=60> |
+|:---:|:---:|:---:|
+
+### Connect with me :smiley:
+<a href="https://www.linkedin.com/in/ekaterina-prusakova-b209b494/">
+  <img align="left" alt="Katya Prusakova" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+
+<br/><br/>
+
+<br/><br/>
+
+
+
+<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=KatyaPrusakova/KatyaPrusakova) -->
+
+![ViewCount](https://views.whatilearened.today/views/github/KatyaPrusakova/views.svg)
