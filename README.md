@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    Currently I'm studying at <a href="https://www.hive.fi/en/about-hive">@ Hive Helsinki :school: </a> and on my way to become software developer:computer:. Interested in working on backend, API's, Databases and currently learning about algorithms. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+    Currently I'm studying at <a href="https://www.hive.fi/en/about-hive">@ Hive Helsinki :school: </a> and being on my way to become software developer:computer:. Interested in working on backend, API's, Databases and currently learning about algorithms. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Chess :neutral_face:
   </samp>
 </p>
 
