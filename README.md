@@ -28,3 +28,9 @@
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=KatyaPrusakova/KatyaPrusakova) -->
 
 ![ViewCount](https://views.whatilearened.today/views/github/KatyaPrusakova/views.svg)
+
+## Github Metrics
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
