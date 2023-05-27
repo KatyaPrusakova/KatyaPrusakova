@@ -25,7 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML         34 mins         ████████▓░░░░░░░░░░░░░░░░   34.04 %
+C            27 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
+Markdown     22 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
+Makefile     9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+Python       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
