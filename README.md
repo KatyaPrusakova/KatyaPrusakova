@@ -20,7 +20,7 @@
 
 ![ViewCount](https://views.whatilearened.today/views/github/KatyaPrusakova/views.svg)
 
-## Github Metrics
+## Weekly Github Metrics
 
 <!--START_SECTION:waka-->
 
