@@ -25,9 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash    1 min           ████████████████░░░░░░░░░   63.79 %
-Git     0 secs          ██████░░░░░░░░░░░░░░░░░░░   23.55 %
-Other   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
