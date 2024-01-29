@@ -12,8 +12,8 @@ Feel free to reach out and connect with me through [scheduling a call](https://c
   </samp>
 </p>
 
-### Connect with me :smiley:
-<a href="https://www.linkedin.com/in/ekaterina-prusakova-b209b494/">
+### More official place to see what I have been busy with :smiley:
+<a href="https://www.linkedin.com/in/ekaterina-prusakova-xyz/">
   <img align="left" alt="Katya Prusakova" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <br/><br/>
