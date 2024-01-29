@@ -5,7 +5,10 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm studying at 42 Madrid :school: </a> and working as software developer:computer:. Always way too excited about Rust :crab:. Occasionaly I do participate in Hackathons :bulb: and play Chess.
+    I'm software developer:computer: with product mind set. I love working on different projects and make them come to life, starting from web apps, ending with random experiments on generative art. Occasionaly I do participate in Hackathons :bulb: and spend way too much time playing Chess.
+
+Feel free to reach out and connect with me through [scheduling a call](https://calendly.com/katia-prusakova/). I'm always up for exchanging ideas and geeting to know new people!
+
   </samp>
 </p>
 
